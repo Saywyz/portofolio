@@ -15,12 +15,12 @@ const projects = [
     image: "wip.png"
   },
   {
-    name: "ML Dashboard",
-    category: "Data Visualization",
-    desc: "Interactive dashboard for ML model monitoring.",
-    link: "https://github.com/yourusername/ml-dashboard",
-    image: "wip.png"
-  }
+    name: "character_features",
+    category: "AI & Computer Vision",
+    desc: "Using SAM model to create character feature masks from images.",
+    link: "https://github.com/Saywyz/character_features",
+    image: "char1.png"
+  },
 ];
 
 function createProjectCard(project) {
