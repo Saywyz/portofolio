@@ -8,18 +8,25 @@ const projects = [
     image: "botai1.png"
   },
   {
+    name: "Paris Road Traffic Forecasting",
+    category: "AI & Computer Vision",
+    desc: "Trained STGNN model over Paris road traffic dataset to forecast traffic conditions.",
+    link: "https://github.com/Saywyz/Paris-road-traffic-forecast",
+    image: "pfe.png"
+  },
+  {
+    name: "Character Features Extraction",
+    category: "AI & Computer Vision",
+    desc: "Using SAM model to create character feature masks from images.",
+    link: "https://github.com/Saywyz/character_features",
+    image: "char1.png"
+  },
+    {
     name: "Data Pipeline",
     category: "Data Engineering",
     desc: "Automated ETL pipeline for big data processing.",
     link: "https://github.com/yourusername/data-pipeline",
     image: "wip.png"
-  },
-  {
-    name: "character_features",
-    category: "AI & Computer Vision",
-    desc: "Using SAM model to create character feature masks from images.",
-    link: "https://github.com/Saywyz/character_features",
-    image: "char1.png"
   },
 ];
 
