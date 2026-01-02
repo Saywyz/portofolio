@@ -22,6 +22,13 @@ const projects = [
     image: "char1.png"
   },
     {
+    name: "Extraction of Ancient French Texts",
+    category: "AI & Computer Vision",
+    desc: "Automating the extraction of old and barely legible texts",
+    link: "https://github.com/Saywyz/Extraction-of-ancient-texts",
+    image: "txt.png"
+  },
+    {
     name: "Data Pipeline",
     category: "Data Engineering",
     desc: "Automated ETL pipeline for big data processing.",
