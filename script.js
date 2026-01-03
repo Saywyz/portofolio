@@ -8,6 +8,13 @@ const projects = [
     image: "botai1.png"
   },
   {
+    name: "Generative AI Models",
+    category: "AI & Computer Vision",
+    desc: "Personal work over various generative AI models (AutoEncoders, Diffusion, Flow, Energy...).",
+    link: "https://github.com/Saywyz/Generative-AI-models",
+    image: "genai.png"
+  },
+  {
     name: "Paris Road Traffic Forecasting",
     category: "AI & Computer Vision",
     desc: "Trained STGNN model over Paris road traffic dataset to forecast traffic conditions.",
