@@ -29,6 +29,13 @@ const projects = [
     image: "txt.png"
   },
     {
+    name: "Lossless-compression-methods",
+    category: "Programming",
+    desc: "Haskell implementation of the Lempel-Ziv (LZ) family of lossless data compression algorithms.",
+    link: "https://github.com/Saywyz/Lossless-compression-methods",
+    image: "lzw.png"
+  },
+    {
     name: "Data Pipeline",
     category: "Data Engineering",
     desc: "Automated ETL pipeline for big data processing.",
