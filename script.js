@@ -43,10 +43,10 @@ const projects = [
     image: "lzw.png"
   },
     {
-    name: "Data Pipeline",
+    name: "Work In Progress",
     category: "Data Engineering",
     desc: "Automated ETL pipeline for big data processing.",
-    link: "https://github.com/yourusername/data-pipeline",
+    link: "https://github.com/Saywyz",
     image: "wip.png"
   },
 ];
