@@ -43,10 +43,17 @@ const projects = [
     image: "lzw.png"
   },
     {
-    name: "Work In Progress",
+    name: "Kedro Data Pipeline",
     category: "Data Engineering",
-    desc: "Automated ETL pipeline for big data processing.",
-    link: "https://github.com/Saywyz",
+    desc: "End-to-end Machine Learning pipeline for predicting user purchase probability",
+    link: "https://github.com/Saywyz/kedro-implementation",
+    image: "kedro.png"
+  },
+  {
+    name: "WIP",
+    category: "Data Engineering",
+    desc: "WIP",
+    link: "https://github.com/Saywyz/",
     image: "wip.png"
   },
 ];
