@@ -36,6 +36,13 @@ const projects = [
     image: "txt.png"
   },
     {
+    name: "Local RAG with LM Studio",
+    category: "AI & Computer Vision",
+    desc: "Small implementation of local RAG using a LLM running through LM Studio",
+    link: "https://github.com/Saywyz/local_rag",
+    image: "rag.png"
+  },
+    {
     name: "Lossless-compression-methods",
     category: "Programming",
     desc: "Haskell implementation of the Lempel-Ziv (LZ) family of lossless data compression algorithms.",
