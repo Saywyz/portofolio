@@ -42,13 +42,7 @@ const projects = [
     link: "https://github.com/Saywyz/local_rag",
     image: "rag.png"
   },
-    {
-    name: "Lossless-compression-methods",
-    category: "Programming",
-    desc: "Haskell implementation of the Lempel-Ziv (LZ) family of lossless data compression algorithms.",
-    link: "https://github.com/Saywyz/Lossless-compression-methods",
-    image: "lzw.png"
-  },
+
     {
     name: "Kedro Data Pipeline",
     category: "Data Engineering",
@@ -56,12 +50,26 @@ const projects = [
     link: "https://github.com/Saywyz/kedro-implementation",
     image: "kedro.png"
   },
+    {
+    name: "ETL Pipeline with Airflow",
+    category: "Data Engineering",
+    desc: "ETL pipeline using Minio ad DataLake, POSTGRESQL as DataWarehouse and Airflow as Orchestrator.",
+    link: "https://github.com/Saywyz/ATL-Datamart",
+    image: "airflow.png"
+},
   {
     name: "WIP",
     category: "Data Engineering",
     desc: "WIP",
     link: "https://github.com/Saywyz/",
     image: "wip.png"
+  },
+      {
+    name: "Lossless-compression-methods",
+    category: "Programming",
+    desc: "Haskell implementation of the Lempel-Ziv (LZ) family of lossless data compression algorithms.",
+    link: "https://github.com/Saywyz/Lossless-compression-methods",
+    image: "lzw.png"
   },
 ];
 
