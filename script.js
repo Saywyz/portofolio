@@ -53,9 +53,9 @@ const projects = [
     {
     name: "ETL Pipeline with Airflow",
     category: "Data Engineering",
-    desc: "ETL pipeline using Minio ad DataLake, POSTGRESQL as DataWarehouse and Airflow as Orchestrator.",
+    desc: "ETL pipeline using Minio as DataLake, POSTGRESQL as DataWarehouse and Airflow as Orchestrator.",
     link: "https://github.com/Saywyz/ATL-Datamart",
-    image: "airflow.png"
+    image: "airflowetl.png"
 },
   {
     name: "WIP",
