@@ -42,6 +42,13 @@ const projects = [
     link: "https://github.com/Saywyz/local_rag",
     image: "rag.png"
   },
+    {
+    name: "Zimbra MCP Server",
+    category: "AI & Computer Vision",
+    desc: "Contribution to an MCP server letting Claude manage Zimbra emails, calendar and contacts (security hardening).",
+    link: "https://github.com/Saywyz/better-zimbra",
+    image: "zimbra.png"
+  },
 
     {
     name: "Kedro Data Pipeline",
